@@ -1,4 +1,11 @@
-# Askal (Combatron)
+# Papercraft
+
+Various papercraft models
+
+* HakoClone template
+
+From the Combatron comics:
+* Askal
 
 ## License
 
